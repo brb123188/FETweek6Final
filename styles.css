@@ -1,0 +1,11 @@
+h1 {
+  color: rgb(250, 18, 18);
+  background-color: rgb(0, 29, 160);
+}
+
+body {
+  background-image: url("https://img-cdn.inc.com/image/upload/w_1920,h_1080,c_fill/images/panoramic/GettyImages-900301626_437925_t2i3bm.jpg");
+}
+div {
+  background-color: rgb(0, 29, 160);
+}
